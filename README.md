@@ -1,5 +1,5 @@
 # Food Service Simulation
-https://github.com/reinana/food-service-simulation/issues/1#issue-3415163202
+![サンプル実行結果](https://github.com/reinana/food-service-simulation/issues/1#issue-3415163202)
 
 このプロジェクトは、オブジェクト指向プログラミング（OOP）の四大原則
 （カプセル化、抽象化、継承、ポリモーフィズム）を練習するための課題です。
